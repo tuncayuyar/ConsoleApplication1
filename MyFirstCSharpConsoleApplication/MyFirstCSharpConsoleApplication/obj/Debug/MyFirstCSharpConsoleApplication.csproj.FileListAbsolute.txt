@@ -1,0 +1,5 @@
+C:\Users\tuncay.uyar\Documents\Visual Studio 2012\Projects\MyFirstCSharpConsoleApplication\MyFirstCSharpConsoleApplication\bin\Debug\MyFirstCSharpConsoleApplication.exe
+C:\Users\tuncay.uyar\Documents\Visual Studio 2012\Projects\MyFirstCSharpConsoleApplication\MyFirstCSharpConsoleApplication\bin\Debug\MyFirstCSharpConsoleApplication.pdb
+C:\Users\tuncay.uyar\Documents\Visual Studio 2012\Projects\MyFirstCSharpConsoleApplication\MyFirstCSharpConsoleApplication\obj\Debug\MyFirstCSharpConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\tuncay.uyar\Documents\Visual Studio 2012\Projects\MyFirstCSharpConsoleApplication\MyFirstCSharpConsoleApplication\obj\Debug\MyFirstCSharpConsoleApplication.exe
+C:\Users\tuncay.uyar\Documents\Visual Studio 2012\Projects\MyFirstCSharpConsoleApplication\MyFirstCSharpConsoleApplication\obj\Debug\MyFirstCSharpConsoleApplication.pdb
